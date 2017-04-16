@@ -15,6 +15,10 @@ p {
   padding: 20px;
 }
 
+h1 {
+  font-size: 1.6em;
+}
+
 .header-page {
   display:flex;
   background-color: #37BBD2;
@@ -28,7 +32,7 @@ p {
 }
 
 .title-image {
-  width: 50px;
+  width: 60px;
 }
 
 .points {
@@ -78,10 +82,21 @@ p {
   padding: 20px;
 }
 
+.fleche:hover {
+  color: white;
+  text-decoration: none;
+}
+
+.inverse {
+  color: white;
+}
+
+.inverse:hover {
+  color: black;
+}
+
 .image {
   margin: auto;
-  width: 125px;
-  height: 125px;
 }
 
 .petit {
@@ -92,7 +107,7 @@ p {
   text-align: center;
   vertical-align: middle;
   padding-bottom: 60px;
-  margin: 0px;
+  margin: auto;
   border: 2px solid black;
 }
 
@@ -104,7 +119,7 @@ p {
   text-align: center;
   vertical-align: middle;
   padding-bottom: 60px;
-  margin: 0px;
+  margin: auto;
   border: 2px solid black;
 
 }
@@ -117,6 +132,6 @@ p {
   text-align: center;
   vertical-align: middle;
   padding-bottom: 60px;
-  margin: 0px;
+  margin: auto;
   border: 2px solid black;
 }

@@ -1,32 +1,12 @@
-/* CSS - Cascading Style Sheet */
-/* Palette color codes */
-/* Palette URL: http://paletton.com/#uid=65k0X0kEy++f+++ld+++qnNZZgX */
-
-/* Feel free to copy&paste color codes to your application */
-
-
-/* As hex codes */
-
-.color-primary-0 { background-color: #FF0063 }	/* Main Primary color */
-.color-primary-1 { background-color: #FF80B1 }
-.color-primary-2 { background-color: #FF5697 }
-.color-primary-3 { background-color: #A4003F }
-.color-primary-4 { background-color: #75002D }
-
-.color-secondary-1-0 { background-color: #6811FF }	/* Main Secondary color (1) */
-.color-secondary-1-1 { background-color: #B68CFF }
-.color-secondary-1-2 { background-color: #9E66FF }
-.color-secondary-1-3 { background-color: #2F0081 }
-.color-secondary-1-4 { background-color: #22005C }
-
-.color-secondary-2-0 { background-color: #FF8900 }	/* Main Secondary color (2) */
-.color-secondary-2-1 { background-color: #FFC480 }
-.color-secondary-2-2 { background-color: #FFB156 }
-.color-secondary-2-3 { background-color: #BE6600 }
-.color-secondary-2-4 { background-color: #874800 }
-
-.color-complement-0 { background-color: #89FF00 }	/* Main Complement color */
-.color-complement-1 { background-color: #C4FF80 }
-.color-complement-2 { background-color: #B1FF56 }
-.color-complement-3 { background-color: #5CAC00 }
-.color-complement-4 { background-color: #427A00 }
+.blanc { background-color: #f5f5f5; }
+.blanc .lien { background-color: #999999; }
+.rose { background-color: #FA8A7E; }
+.rose .lien { background-color: #F8504D; }
+.mauve { background-color: #B483FF; }
+.mauve .lien {background-color: #7F53C6; }
+.bleu { background-color: #B7F6C9; }
+.bleu .lien { background-color: #35EAB5; }
+.jaune { background-color: #FBFF86; }
+.jaune .lien { background-color: #FBED1A; }
+.bleuf { background-color: #7EFEFF; }
+.bleuf .lien {background-color: #3EA8F6; }
