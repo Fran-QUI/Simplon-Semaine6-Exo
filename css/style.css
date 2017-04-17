@@ -108,7 +108,7 @@ h1 {
   vertical-align: middle;
   padding-bottom: 60px;
   margin: auto;
-  border: 2px solid black;
+  border: 3px solid #3F4042;
 }
 
 .grand {
@@ -120,7 +120,7 @@ h1 {
   vertical-align: middle;
   padding-bottom: 60px;
   margin: auto;
-  border: 2px solid black;
+  border: 3px solid #3F4042;
 
 }
 
@@ -133,5 +133,5 @@ h1 {
   vertical-align: middle;
   padding-bottom: 60px;
   margin: auto;
-  border: 2px solid black;
+  border: 3px solid #3F4042;
 }
